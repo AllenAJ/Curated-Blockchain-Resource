@@ -227,4 +227,23 @@
 225. [How to Actually Combine AI and Blockchain in One Platform](https://hackernoon.com/how-to-actually-combine-ai-and-blockchain-in-one-platform-ef937e919ec2) - Hacker Noon, June 7, 2018.
 226. [Blockchain-based Machine Learning Marketplaces](https://medium.com/@FEhrsam/blockchain-based-machine-learning-marketplaces-cb2d4dae2c17) - Fred Ehrsam, March 13, 2018.
 227. [The convergence of AI and Blockchain: what’s the deal?](https://medium.com/@Francesco_AI/the-convergence-of-ai-and-blockchain-whats-the-deal-60c618e3accc) - Francesco Corea, December 1, 2017.
+228. [Understand the Blockchain in Two Minutes \(video\)](https://goo.gl/Hf4e4m), Law Librarian Blog:  A quick introduction to the basics
+229. [What is Blockchain Technology, A Step by Step Guide for Beginners,](https://goo.gl/7gaHLA) BlockGeeks: A visual guide to how blockchains work
+230. [Blockchains & Distributed Ledger Technologies](http://bit.ly/2Jh3iK3), Blockchainhub.net: Blockchains are part of a larger set of databases known as distributed ledgers.  This article provides information about these.
+231. [The Basics of the Blockchain Revolution](https://news.thomasnet.com/featured/the-basics-of-the-blockchain-revolution), _Thomasnet_: Possible future uses of Blockchain
+232. [Blockchain Demo](https://anders.com/blockchain/), _Anders.com_: Video explanation; blockchain sandbox – try it for yourself
+233. [Blockchain Explained](http://graphics.reuters.com/TECHNOLOGY-BLOCKCHAIN/010070P11GN/index.html), _Reuters Graphics_: Interactive graphic demo
+234. [Blockchain State Regulation](http://www.ncsl.org/research/financial-services-and-commerce/the-fundamentals-of-risk-management-and-insurance-viewed-through-the-lens-of-emerging-technology-webinar.aspx), _National Conference of State Legislatures_: Lists the status of state regulations; updates ongoing.
+235. [Regulation of Cryptocurrency Around the World](https://www.loc.gov/law/help/cryptocurrency/world-survey.php), _Law Library of Congress:_ Detailed international information about cryptocurrency laws
+236. [Cryptocurrency Is a Brave New World for Legal Ethics](https://www.shbusinessnews.com/cryptocurrency-is-a-brave-new-world-for-legal-ethics/), _SH Business News:_ Ethics issues with crypto and blockchain
+237. [What Is Cryptocurrency? Guide for Beginners](https://www.aallnet.org/education_updates/aall-education-update-december-2018/)_, Cointelegraph:_ Explains the history and basics
+238. [Bitcoin,](https://bitcoin.org/en/) _Bitcoin.com_: This is not the official site for Bitcoin, but provides a good overview
+239. [Ethereum](https://ethereum.org/) \(combines currency and a programming language\), _Ethereum.org_: Ethereum’s programming language, Solidity, is used for creating smart contracts
+240. [What Is Bitcoin?](https://blockgeeks.com/guides/what-is-bitcoin/), _Blockgeeks_: Explains how Bitcoin works
+241. [Cryptocurrency Comparisons](https://www.ig.com/uk/cryptocurrency-trading/cryptocurrency-comparison), _IG_: Describes competing currencies
+242. [Cryptocurrency 2018 \(Legal Issues\)](https://corpgov.law.harvard.edu/2018/02/08/cryptocurrency-2018/), _Harvard Law School Forum on Corporate Governance and Financial Regulation_: Provides information about cryptocurriences and outlines current legal issues
+243. [A Beginner’s Guide to Smart Contracts](https://blockgeeks.com/guides/smart-contracts/), BlockGeeks: A detailed and visual guide to smart contracts
+244. Blockchain 101 for Lawyers, [Part 1,](http://www.lawtechnologytoday.org/2017/01/blockchain-101-for-lawyers-part-1/) [Part 2,](http://www.lawtechnologytoday.org/2017/01/blockchain-lawyers-101-part-2/) Law Technology Today: An introduction to the legal aspects of blockchain and what legal services might be affected.
+245. [Build Your First Smart Contract](https://medium.com/crypto-currently/build-your-first-smart-contract-fc36a8ff50ca), _Crypto Currently:_ Ready to try programming a contract yourself?  This tutorial provides the resources.
+246. [Bitcoin and Cryptocurrency Technologies](https://www.coursera.org/learn/cryptocurrency), _Coursera_: The first sections provide a detailed technical overview of how crypto and blockchains work.  This course was created a few years ago, so the use cases are outdated.
 

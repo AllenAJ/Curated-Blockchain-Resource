@@ -11,5 +11,7 @@
 * [Podcasts](table-of-content/podcasts.md)
 * [Hackathons](table-of-content/hackathons.md)
 * [Newsletters](table-of-content/newsletters.md)
+* [Events](table-of-content/events.md)
+* [Forums](table-of-content/forums.md)
 * [FAQ](faq.md)
 

@@ -24,4 +24,5 @@
 22. [The Bitcoin Backbone Protocol Analysis and Applications](https://eprint.iacr.org/2014/765)
 23. [Cryptocurrencies without PoW](https://arxiv.org/pdf/1406.5694.pdf)
 24. [Some Simple Economics of the Blockchain](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2874598)
+25. [Smart Contracts and Distributed Ledger – A Legal Perspective](https://www.isda.org/a/6EKDE/smart-contracts-and-distributed-ledger-a-legal-perspective.pdf), ISDA: An in-depth white paper
 
