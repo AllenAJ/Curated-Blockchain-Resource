@@ -2,7 +2,7 @@
 
 * [Blockchain Resources](README.md)
 
-## Table of Content
+## 📌Table of Content
 
 * [Articles](table-of-content/articles.md)
 * [Videos](table-of-content/videos.md)
