@@ -2,7 +2,7 @@
 description: Curated list of blockchain and general cryptocurrency resources
 ---
 
-# Curated Blockchain Resources
+# Blockchain Resources
 
 The blockchain is an incorruptible digital ledger of economic transactions that can be programmed to record not just financial transactions but virtually everything of value \(by [Don Tapscott](https://www.linkedin.com/pulse/whats-next-generation-internet-surprise-its-all-don-tapscott)\).
 

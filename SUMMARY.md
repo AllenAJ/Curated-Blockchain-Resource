@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Curated Blockchain Resources](README.md)
+* [Blockchain Resources](README.md)
 
 ## Table of Content
 
