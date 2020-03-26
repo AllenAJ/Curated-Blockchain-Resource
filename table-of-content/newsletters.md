@@ -1,0 +1,20 @@
+# Newsletters
+
+1. [EthHub Weekly Newsletter](https://ethhub.substack.com/)
+2. [Week In Ethereum](https://weekinethereumnews.com/)
+3. [The Defiant](https://thedefiant.substack.com/)
+4. [Bankless](https://bankless.substack.com/)
+5. [Our Network](https://ournetwork.substack.com/)
+6. [NFTY](https://flynnjamm.substack.com/)
+7. [Messari](https://messari.io/)
+8. [Coin Metrics](https://coinmetrics.substack.com/)
+9. [The Block](https://www.theblockcrypto.com/)
+10. [OrgTech Weekly](https://orgtech.substack.com/)
+11. [Long Reads Sunday](https://www.getrevue.co/profile/nlw)
+12. [Proof of Work](https://proofofwork.news/)
+13. [Tony Sheng](https://www.tonysheng.com/)
+14. [Global Coin Research](https://globalcoinresearch.com/)
+15. [DeFi Weekly](https://defiweekly.substack.com/)
+16. [Token Economy](https://tokeneconomy.co/)
+17. [Token Daily](https://www.tokendaily.co/join-newsletter)
+

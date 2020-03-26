@@ -2,28 +2,11 @@
 description: Curated list of blockchain and general cryptocurrency resources
 ---
 
-# Curated-Blockchain-Resource
+# Curated Blockchain Resources
 
-## Getting Super Powers
+The blockchain is an incorruptible digital ledger of economic transactions that can be programmed to record not just financial transactions but virtually everything of value \(by [Don Tapscott](https://www.linkedin.com/pulse/whats-next-generation-internet-surprise-its-all-don-tapscott)\).
 
-Becoming a super hero is a fairly straight forward process:
+**This is not a simple collection of Internet resources, but verified and organized data ensuring it's really suitable for your learning process and useful for your development and application.**
 
-```
-$ give me super-powers
-```
-
-{% hint style="info" %}
- Super-powers are granted randomly so please submit an issue if you're not happy with yours.
-{% endhint %}
-
-Once you're strong enough, save the world:
-
-{% code title="hello.sh" %}
-```bash
-# Ain't no code for that yet, sorry
-echo 'You got to trust me on this, I saved the world'
-```
-{% endcode %}
-
-A collective guide to mastering blockchain
+\*\*\*\*
 
